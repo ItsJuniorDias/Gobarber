@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "express": "^4.17.1",
+    "gulp": "^4.0.2",
     "init": "^0.1.2",
     "pg": "^7.12.1",
     "pg-hstore": "^2.3.3",
@@ -20,6 +21,7 @@
     "eslint-config-prettier": "^6.5.0",
     "eslint-plugin-import": "^2.18.2",
     "eslint-plugin-prettier": "^3.1.1",
+    "livereload": "^0.8.2",
     "nodemon": "^1.19.4",
     "prettier": "^1.18.2",
     "sequelize-cli": "^5.5.1",
