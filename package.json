@@ -1,35 +1,29 @@
 {
-  "name": "barber",
+  "name": "modulo02",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "dev": "nodemon src/server.js",
-    "dev:debug": "nodemon --inspect src/server.js"
+    "dev": "nodemon src/server.js"
   },
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "express": "^4.17.1",
-    "gulp": "^4.0.2",
-    "init": "^0.1.2",
-    "install": "^0.13.0",
     "jsonwebtoken": "^8.5.1",
-    "node-pre-gyp": "^0.14.0",
-    "nvm": "^0.0.4",
-    "pg": "^7.12.1",
+    "pg": "^7.11.0",
     "pg-hstore": "^2.3.3",
-    "sequelize": "^5.21.1"
+    "sequelize": "^5.8.7",
+    "yup": "^0.27.0"
   },
   "devDependencies": {
-    "eslint": "^6.6.0",
-    "eslint-config-airbnb-base": "^14.0.0",
-    "eslint-config-prettier": "^6.5.0",
-    "eslint-plugin-import": "^2.18.2",
-    "eslint-plugin-prettier": "^3.1.1",
-    "livereload": "^0.8.2",
-    "nodemon": "^1.19.4",
-    "prettier": "^1.18.2",
-    "sequelize-cli": "^5.5.1",
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-config-prettier": "^4.3.0",
+    "eslint-plugin-import": "^2.17.3",
+    "eslint-plugin-prettier": "^3.1.0",
+    "nodemon": "^1.19.1",
+    "prettier": "^1.17.1",
+    "sequelize-cli": "^5.4.0",
     "sucrase": "^3.10.1"
   }
 }
