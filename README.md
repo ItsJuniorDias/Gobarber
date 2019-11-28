@@ -12,3 +12,46 @@ If you want to test the App in the Production mode, the installers are listed be
 - NodeJs [Link](https://nodejs.org/en/download/) for backend.
 - ReactJs [Link](https://reactjs.org/docs/getting-started.html) for frontend.
 - ReactNative [Link](https://facebook.github.io/react-native/docs/getting-started) for mobile
+
+## Getting Started
+
+### Prerequisites
+
+To run this project in the development mode, you'll need to have a basic environment to run a React and React Native App, also,  that can be found [here](https://facebook.github.io/react-native/docs/getting-started).
+
+### Installing
+
+**Cloning the Repository**
+
+```
+$ git clone https://github.com/ItsJuniorDias/Gobarber.git
+
+$ cd Gobarbber
+```
+
+**Installing dependencies**
+
+```
+$ yarn 
+
+_or_
+
+```
+$ npm install
+```
+**Running**
+
+**Backend**
+
+```
+$ cd Gobarber
+$ yarn dev
+```
+-Leave running the backend and run the front after mobile.
+
+**FrontEnd**
+
+```
+$ cd Gobarber
+$ yarn start
+```
