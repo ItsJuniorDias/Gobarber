@@ -33,10 +33,6 @@ $ cd Gobarbber
 
 ```
 $ yarn 
-
-_or_
-
-```
 $ npm install
 ```
 **Running**
