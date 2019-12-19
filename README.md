@@ -13,6 +13,13 @@ If you want to test the App in the Production mode, the installers are listed be
 - ReactJs [Link](https://reactjs.org/docs/getting-started.html) for frontend.
 - ReactNative [Link](https://facebook.github.io/react-native/docs/getting-started) for mobile
 
+## Configuration
+If you want to test the App in the Production mode, the installers are listed below
+- **Nodemon** and **Sucrase** to start on the local server.
+- **Sequelize** for data abstration in the base.
+- **Docker** to create microservices in different applications. 
+
+
 ## Getting Started
 
 ### Prerequisites
