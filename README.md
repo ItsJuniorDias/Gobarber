@@ -18,6 +18,7 @@ Listed here are the settings used in the Project.
 - **Nodemon** and **Sucrase** to start on the local server.
 - **Sequelize** for data abstration in the base.
 - **Docker** to create microservices in different applications. 
+- Authentication using **JWT**
 
 
 ## Getting Started
