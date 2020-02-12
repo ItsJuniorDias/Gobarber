@@ -21,7 +21,7 @@ module.exports = {
     "linebreak-style": 0,
     "global-require": 0,
     "class-methods-use-this": "off",
-    "no-params-reassign": "off",
+    "no-param-reassign": "off",
     "camelcase": "off",
     "no-unused-vars": ["error", {"argsIgnorePattern": "next" }], 
   },
