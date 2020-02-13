@@ -30,3 +30,43 @@ If you want to test the App in the Production mode, the installers are listed be
  - Allows a user to authenticate using email and password.
  - Authentication is done using JWT.
  
+ ## Backend
+
+## Configuration
+
+ - Configuration **Express** , a microframework that deals with routes, requests and responses.
+- Configuration **Multer** to upload file.
+- Creation of *Models* and *Controllers*.
+- Using **axios** to handle external API requests.
+- Using **Yup** for input data validation.
+
+### Installing
+
+**Cloning the Repository**
+
+```
+$ git clone https://github.com/ItsJuniorDias/Gobarber
+
+$ cd Gobarber
+```
+
+**Installing dependencies**
+
+```
+$ yarn add nodemon
+```
+
+_or_
+
+```
+$ npm install
+```
+**Running**
+
+**Backend**
+
+```
+$ cd Gobarber
+$ yarn dev
+```
+ 
