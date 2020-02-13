@@ -23,4 +23,5 @@ If you want to test the App in the Production mode, the installers are listed be
 
 ## App
  - The application has customer and service provider sides;
- - the App it is a possible to schedule times for services and has part of the user profile. 
+ - The App it is a possible to schedule times for services and has part of the user profile. 
+ - Has user login and authentication part.
