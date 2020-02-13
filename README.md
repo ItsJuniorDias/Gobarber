@@ -30,3 +30,13 @@ If you want to test the App in the Production mode, the installers are listed be
  - Allows a user to authenticate using email and password.
  - Authentication is done using JWT.
  
+ ## Backend
+
+## Configuration
+
+ - Configuration **Express** , a microframework that deals with routes, requests and responses;
+- Configuration **nodemon** to monitor code changes and restart the server automatically when changes occur;
+- Creation of *Models* and *Controllers*;
+- Configuration of **mongoose** (ODM that uses Javascript syntax) to handle **MongoDB**, a nonrelational database;
+- Using **axios** to handle external API requests.
+ 
