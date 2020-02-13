@@ -34,8 +34,9 @@ If you want to test the App in the Production mode, the installers are listed be
 
 ## Configuration
 
- - Configuration **Express** , a microframework that deals with routes, requests and responses;
-- Configuration **Multer** to upload file;
-- Creation of *Models* and *Controllers*;
+ - Configuration **Express** , a microframework that deals with routes, requests and responses.
+- Configuration **Multer** to upload file.
+- Creation of *Models* and *Controllers*.
 - Using **axios** to handle external API requests.
+- Using **Yup** for input data validation.
  
