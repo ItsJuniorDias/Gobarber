@@ -11,6 +11,7 @@
     "dev:debug": "nodemon --inspect src/server.js"
   },
   "dependencies": {
+    "@sentry/node": "5.12.2",
     "bcryptjs": "^2.4.3",
     "bee-queue": "^1.2.3",
     "crypto": "^1.0.1",
