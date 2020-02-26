@@ -1,4 +1,4 @@
-require('dotenv/config').config();
+require('dotenv/config');
 
 module.exports = {
   dialect: 'postgres',
