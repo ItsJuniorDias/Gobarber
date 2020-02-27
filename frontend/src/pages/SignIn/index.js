@@ -12,7 +12,7 @@ export default function SignIn() {
         <input type="email" placeholder="Seu e-mail" />
         <input type placeholder="Sua senha secreta" />
 
-        <button type="submit"> </button>
+        <button type="submit">Acessar </button>
         <Link to="register">Criar conta gratuita</Link>
       </form>
     </>
