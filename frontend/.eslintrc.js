@@ -35,6 +35,7 @@ module.exports = {
      'no-unused-vars': ['error', {argsIgonorePattern: '^_'}],
      'react/jsx-one-expression-per-line': 'off',
      'global-require': 'off',
-     'react-native/no-raw-text':'off'
+     'react-native/no-raw-text':'off',
+     'react/jsx-props-no-spreading': 'off'
   },
 };
