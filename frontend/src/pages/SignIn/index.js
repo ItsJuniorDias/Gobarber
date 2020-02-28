@@ -13,7 +13,7 @@ export default function SignIn() {
         <input type placeholder="Sua senha secreta" />
 
         <button type="submit">Acessar </button>
-        <Link to="register">Criar conta gratuita</Link>
+        <Link to="/register">Criar conta gratuita</Link>
       </form>
     </>
   );
