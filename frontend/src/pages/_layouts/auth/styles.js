@@ -55,7 +55,7 @@ export const Content = styled.div`
       margin-top: 15px;
       font-size: 16px;
       opacity: 0.8;
-      font-weight: bold;
+      font-weight: bolder;
 
       &:hover {
         opacity: 1;
