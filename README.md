@@ -29,16 +29,20 @@ If you want to test the App in the Production mode, the installers are listed be
  ### Authentication 
  - Allows a user to authenticate using email and password.
  - Authentication is done using JWT.
- 
- ## Backend
 
 ## Configuration
+### Backend
 
  - Configuration **Express** , a microframework that deals with routes, requests and responses.
 - Configuration **Multer** to upload file.
 - Creation of *Models* and *Controllers*.
 - Using **axios** to handle external API requests.
 - Using **Yup** for input data validation.
+
+### Frontend
+  - Configuration **BrowserRouter** and **Route** (lib *react-router-dom*) to handle navigation and each route individually;
+  - Configuration of **axios** to make the request to the database;
+  - Using **Redux** to manage components states.
 
 ### Installing
 
