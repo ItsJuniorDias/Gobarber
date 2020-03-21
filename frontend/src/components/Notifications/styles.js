@@ -24,3 +24,7 @@ export const Badge = styled.button`
       }
     `}
 `;
+
+export const NotificationList = styled.div``;
+
+export const Notification = styled.div``;
