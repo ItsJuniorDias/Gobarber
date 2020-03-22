@@ -43,6 +43,7 @@ If you want to test the App in the Production mode, the installers are listed be
   - Configuration **BrowserRouter** and **Route** (lib *react-router-dom*) to handle navigation and each route individually;
   - Configuration of **axios** to make the request to the database;
   - Using **Redux** to manage components states.
+  - Using **Redux-Saga** which handless our API-based trading rule by creating a sagas.js file for treatment.
 
 ### Installing
 
