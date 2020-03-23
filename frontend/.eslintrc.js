@@ -27,6 +27,7 @@ module.exports = {
     'prettier'
   ],
   rules: {
+    "no-underscore-dangle": "off",
     "no-undef": "off",
     "no-unused-expressions": "off",
     "no-param-reassign": "off",
