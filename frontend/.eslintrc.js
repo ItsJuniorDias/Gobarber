@@ -27,6 +27,7 @@ module.exports = {
     'prettier'
   ],
   rules: {
+    "no-undef": "off",
     "no-param-reassign": "off",
     "no-console": "off",
      "react/jsx-filename-extension": [
