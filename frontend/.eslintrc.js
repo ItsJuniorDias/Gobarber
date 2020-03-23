@@ -28,6 +28,7 @@ module.exports = {
   ],
   rules: {
     "no-undef": "off",
+    "no-unused-expressions": "off",
     "no-param-reassign": "off",
     "no-console": "off",
      "react/jsx-filename-extension": [

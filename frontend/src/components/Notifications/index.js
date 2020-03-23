@@ -1,3 +1,4 @@
+/* eslint-disable no-underscore-dangle */
 import React, { useState, useEffect } from 'react';
 import { MdNotifications } from 'react-icons/md';
 import { parseISO, formatDistance } from 'date-fns';
@@ -48,26 +49,13 @@ export default function Notifications() {
 
       <NotificationList visible={visible}>
         <Scroll>
-          <Notification unread>
-            <p> Você possui um novo agendamento para amanhã</p>
-            <time>há 2 dias </time>
-            <button type="button">Marcar como lida</button>
-          </Notification>
-          <Notification>
-            <p> Você possui um novo agendamento para amanhã</p>
-            <time>há 2 dias </time>
-            <button type="button">Marcar como lida</button>
-          </Notification>
-          <Notification>
-            <p> Você possui um novo agendamento para amanhã</p>
-            <time>há 2 dias </time>
-            <button type="button">Marcar como lida</button>
-          </Notification>
-          <Notification>
-            <p> Você possui um novo agendamento para amanhã</p>
-            <time>há 2 dias </time>
-            <button type="button">Marcar como lida</button>
-          </Notification>
+          {notifications.map(notification => (
+            <Notification key={notification._id} unread={!notification.read}>
+              <p>{notification.content}</p>
+              <time>{notification.timeDistance}</time>
+              <button type="button">Marcar como lida</button>
+            </Notification>
+          ))}
         </Scroll>
       </NotificationList>
     </Container>
