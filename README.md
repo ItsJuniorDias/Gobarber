@@ -1,3 +1,18 @@
+<div align="center">
+  <img src="./frontend/src/assets/logo.svg" height="100px" alt="Be the hero"/>
+</div>
+
+<div align="center">
+
+  #### Application for scheduling hours, for service providers
+
+
+  ![](https://img.shields.io/badge/autor-Junior%20Dias-brightgreen)
+  ![](https://img.shields.io/badge/Back--End-NodeJS-brightgreen)
+  ![](https://img.shields.io/badge/Front--End-ReactJS-brightgreen)
+  ![](https://img.shields.io/badge/Mobile-React%20Native-brightgreen)
+</div> 
+
 # Gobarber
 :barber:  Application using NodeJs on backend, ReactJs on frontend and React Native for mobile
 
