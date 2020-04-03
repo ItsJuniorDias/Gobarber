@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./frontend/src/assets/logo.svg" height="100px" alt="Gobaber"/>
+  <img src="./frontend/src/assets/logo-purple.svg" height="100px" alt="Gobaber"/>
 </div>
 
 <div align="center">
