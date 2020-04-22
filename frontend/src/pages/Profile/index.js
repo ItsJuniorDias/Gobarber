@@ -7,7 +7,9 @@ import { Container } from './styles';
 export default function Profile() {
   const profile = useSelector(state => state.user.profile);
 
-  function handleSubmit(data) {}
+  function handleSubmit(data) {
+    console.tron.log(data);
+  }
 
   return (
     <Container>
