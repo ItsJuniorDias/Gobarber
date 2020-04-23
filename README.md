@@ -101,4 +101,11 @@ $ yarn dev
 $ cd frontend
 $ yarn start
 ```
+
+**Mobile**
+
+```
+$ cd mobile
+$ yarn start
+```
  
