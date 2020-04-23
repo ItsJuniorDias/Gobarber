@@ -16,6 +16,9 @@
 # Gobarber
 :barber:  Application using NodeJs on backend, ReactJs on frontend and React Native for mobile
 
+![Gobarber](https://user-images.githubusercontent.com/50254416/80058435-a18b2880-84ff-11ea-82c1-9e24cbb4a5e9.gif)
+
+
 ## About this Project
 
 The idea of the App is:
