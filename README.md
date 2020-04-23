@@ -78,7 +78,7 @@ $ cd Gobarber
 **Installing dependencies**
 
 ```
-$ yarn add nodemon
+$ yarn install
 ```
 
 _or_
