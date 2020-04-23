@@ -91,7 +91,14 @@ $ npm install
 **Backend**
 
 ```
-$ cd Gobarber
+$ cd backend
 $ yarn dev
+```
+
+**Frontend**
+
+```
+$ cd frontend
+$ yarn start
 ```
  
