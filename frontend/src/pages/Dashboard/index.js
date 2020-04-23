@@ -84,19 +84,6 @@ export default function Dashboard() {
             </span>
           </Time>
         ))}
-
-        <Time available>
-          <strong>09:00</strong>
-          <span>Aberto</span>
-        </Time>
-        <Time>
-          <strong>10:00 </strong>
-          <span>Alexandre Junior</span>
-        </Time>
-        <Time>
-          <strong>11:00</strong>
-          <span>Alexandre Junior</span>
-        </Time>
       </ul>
     </Container>
   );
