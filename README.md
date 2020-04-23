@@ -16,7 +16,7 @@
 # Gobarber
 :barber:  Application using NodeJs on backend, ReactJs on frontend and React Native for mobile
 
-![gobarber](https://user-images.githubusercontent.com/50254416/80059151-9a651a00-8501-11ea-93bd-c606015ed6d4.gif)
+![gobarber](https://user-images.githubusercontent.com/50254416/80059444-5cb4c100-8502-11ea-9260-17c4fdf5335e.gif)
 
 
 
