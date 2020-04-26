@@ -16,10 +16,8 @@ export default createGlobalStyle`
     outline: 0;
   }
 
-  html, body {
+  html, body,  #root {
     height: 100%;
-    width: 100%;
-}
   }
 
   body {
