@@ -33,5 +33,10 @@ module.exports = {
       }
     ]
   },
-  'import/prefer-default-export': 'off'
+  'import/prefer-default-export': 'off',
+  settings: {
+    'import/resolver-root-import': {
+      rootPathSuffix: 'src'
+    }
+  }
 };
