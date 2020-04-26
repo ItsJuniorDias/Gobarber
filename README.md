@@ -16,6 +16,10 @@
 # Gobarber
 :barber:  Application using NodeJs on backend, ReactJs on frontend and React Native for mobile
 
+![gobarber](https://user-images.githubusercontent.com/50254416/80059444-5cb4c100-8502-11ea-9260-17c4fdf5335e.gif)
+
+
+
 ## About this Project
 
 The idea of the App is:
@@ -59,6 +63,10 @@ If you want to test the App in the Production mode, the installers are listed be
   - Configuration of **axios** to make the request to the database;
   - Using **Redux** to manage components states.
   - Using **Redux-Saga** which handless our API-based trading rule by creating a sagas.js file for treatment.
+  -  Using **date-fns** for date and time handling
+  
+### Mobile 
+  - Using **react-navigation** for tratment navigation.
 
 ### Installing
 
@@ -73,7 +81,7 @@ $ cd Gobarber
 **Installing dependencies**
 
 ```
-$ yarn add nodemon
+$ yarn install
 ```
 
 _or_
@@ -86,7 +94,21 @@ $ npm install
 **Backend**
 
 ```
-$ cd Gobarber
+$ cd backend
 $ yarn dev
+```
+
+**Frontend**
+
+```
+$ cd frontend
+$ yarn start
+```
+
+**Mobile**
+
+```
+$ cd mobile
+$ yarn start
 ```
  
