@@ -3,8 +3,8 @@ import { View, Text } from 'react-native';
 
 // import { Container } from './styles';
 
-export default function Teste() {
+export default function SignUp() {
   return (
-    <Text> Teste</Text>
+    <Text>SignUp</Text>
   );
 }
