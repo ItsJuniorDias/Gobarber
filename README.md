@@ -68,6 +68,7 @@ If you want to test the App in the Production mode, the installers are listed be
 ### Mobile 
   - Using **react-navigation** for tratment navigation and routes.
   - Using **Redux** to manage components states.
+  -
 
 ### Installing
 
