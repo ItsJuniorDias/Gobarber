@@ -71,6 +71,7 @@ If you want to test the App in the Production mode, the installers are listed be
   - Using **styled-components** to create customizable components
   - Using API **Hooks** for policy handling.
   - **Prop-Types** were used to pass properties between components
+  - **React-native-vector-icons** was used to show the application icons
 
 ### Installing
 
