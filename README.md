@@ -69,6 +69,7 @@ If you want to test the App in the Production mode, the installers are listed be
   - Using **react-navigation** for tratment navigation and routes.
   - Using **Redux** to manage components states.
   - Using **styled-components** to create customizable components
+  - Using API **Hooks** for policy handling.
 
 ### Installing
 
