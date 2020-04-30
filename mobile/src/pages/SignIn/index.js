@@ -1,10 +1,8 @@
 import React from 'react';
 import { Image } from 'react-native';
 
-import logo from '~/components/logo.png';
+import logo from '~/assets/logo.png';
 
-import Input from '~/components/Input';
-import Button from '~/components/Button';
 import Background from '~/components/Background';
 
 import {
@@ -34,7 +32,7 @@ export default function SignIn() {
 
           <FormInput
             icon="lock-outline"
-            secureTextEntry={}
+            secureTextEntry
             placeholder="Sua senha secreta"
           />
 
