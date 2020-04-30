@@ -43,7 +43,7 @@ If you want to test the App in the Production mode, the installers are listed be
 ## App
  - The application has customer and service provider sides;
  - The App it is a possible to schedule times for services and has part of the user profile. 
- - Has user login and authentication part.
+ - Has user login and authentication part
  
  ### Authentication 
  - Allows a user to authenticate using email and password.
@@ -70,6 +70,8 @@ If you want to test the App in the Production mode, the installers are listed be
   - Using **Redux** to manage components states.
   - Using **styled-components** to create customizable components
   - Using API **Hooks** for policy handling.
+  - **Prop-Types** were used to pass properties between components
+  - **React-native-vector-icons** was used to show the application icons
 
 ### Installing
 
