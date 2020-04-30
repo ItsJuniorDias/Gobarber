@@ -114,6 +114,8 @@ $ yarn start
 
 ```
 $ cd mobile
-$ yarn start
+$ npx react-native start
+or
+$ npx react-native run-android
 ```
  
