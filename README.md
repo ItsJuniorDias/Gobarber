@@ -59,19 +59,19 @@ If you want to test the App in the Production mode, the installers are listed be
 - Using **Yup** for input data validation.
 
 ### Frontend
-  - Configuration **BrowserRouter** and **Route** (lib *react-router-dom*) to handle navigation and each route individually;
-  - Configuration of **axios** to make the request to the database;
+  - Configuration **BrowserRouter** and **Route** (lib *react-router-dom*) to handle navigation and each route individually.
+  - Configuration of **axios** to make the request to the database.
   - Using **Redux** to manage components states.
   - Using **Redux-Saga** which handless our API-based trading rule by creating a sagas.js file for treatment.
-  -  Using **date-fns** for date and time handling
+  -  Using **date-fns** for date and time handling.
   
 ### Mobile 
   - Using **react-navigation** for tratment navigation and routes.
   - Using **Redux** to manage components states.
-  - Using **styled-components** to create customizable components
+  - Using **styled-components** to create customizable components.
   - Using API **Hooks** for policy handling.
-  - **Prop-Types** were used to pass properties between components
-  - **React-native-vector-icons** was used to show the application icons
+  - **Prop-Types** were used to pass properties between components.
+  - **React-native-vector-icons** was used to show the application icons.
 
 ### Installing
 
