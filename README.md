@@ -24,7 +24,7 @@
 
 The idea of the App is:
 
-_"Customer management system and available sevices, scheduling hours"._
+_"Customer management system and available services, scheduling hours through the mobile app"._
  
 ## Why?
 This project is part of my portfolio, so, I'll be happy if you could provide me any feedback about the project, code, structure or anything that you can report that could make me a better developer!
@@ -59,19 +59,19 @@ If you want to test the App in the Production mode, the installers are listed be
 - Using **Yup** for input data validation.
 
 ### Frontend
-  - Configuration **BrowserRouter** and **Route** (lib *react-router-dom*) to handle navigation and each route individually;
-  - Configuration of **axios** to make the request to the database;
+  - Configuration **BrowserRouter** and **Route** (lib *react-router-dom*) to handle navigation and each route individually.
+  - Configuration of **axios** to make the request to the database.
   - Using **Redux** to manage components states.
   - Using **Redux-Saga** which handless our API-based trading rule by creating a sagas.js file for treatment.
-  -  Using **date-fns** for date and time handling
+  -  Using **date-fns** for date and time handling.
   
 ### Mobile 
   - Using **react-navigation** for tratment navigation and routes.
   - Using **Redux** to manage components states.
-  - Using **styled-components** to create customizable components
+  - Using **styled-components** to create customizable components.
   - Using API **Hooks** for policy handling.
-  - **Prop-Types** were used to pass properties between components
-  - **React-native-vector-icons** was used to show the application icons
+  - **Prop-Types** were used to pass properties between components.
+  - **React-native-vector-icons** was used to show the application icons.
 
 ### Installing
 
@@ -114,6 +114,8 @@ $ yarn start
 
 ```
 $ cd mobile
-$ yarn start
+$ npx react-native start
+or
+$ npx react-native run-android
 ```
  
