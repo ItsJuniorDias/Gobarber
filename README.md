@@ -13,8 +13,8 @@
   ![](https://img.shields.io/badge/Mobile-React%20Native-/?color=7159c1)
 </div> 
 
-# Gobarber
-:barber:  Application using NodeJs on backend, ReactJs on frontend and React Native for mobile
+# Gobarber :barber:
+  Application using NodeJs on backend, ReactJs on frontend and React Native for mobile
 
 ![gobarber](https://user-images.githubusercontent.com/50254416/80059444-5cb4c100-8502-11ea-9260-17c4fdf5335e.gif)
 
